@@ -10,6 +10,9 @@ Dashboard interactivo que muestra las ventas históricas desde los años 1980 ha
 
 ## Análisis de mortalidad infantil y esperanza de vida
 
+Dashboard interactivo que muestra la tasa de mortalidad infantil y la esperanza de vida en los diferentes continentes África, América, Asia, Europa y Oceanía. 
+
+
 <div style="margin-top:20px; margin-bottom:20px">
     <center><img src="visualizations/assignment_2.PNG"/></center>
 </div>
