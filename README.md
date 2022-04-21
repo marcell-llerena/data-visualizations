@@ -10,3 +10,9 @@ Dashboard interactivo que muestra las ventas históricas desde los años 1980 ha
 
 ## Análisis de mortalidad infantil y esperanza de vida
 
+<div style="margin-top:20px; margin-bottom:20px">
+    <center><img src="visualizations/assignment_2.PNG"/></center>
+</div>
+
+
+---
